@@ -118,7 +118,7 @@ img {
   border-radius: 50%;
   width: 140px;
   height: 140px;
-  background: url("/img/chat.svg") center;
+  background: url("./img/chat.svg") center;
   background-repeat: no-repeat;
   left: calc(50% - 70px);
   top: calc(50% - 70px);
